@@ -12,3 +12,5 @@ public class ArraySumTest {
       assertEquals(15,res);
     }
 }
+
+// hi welcome
